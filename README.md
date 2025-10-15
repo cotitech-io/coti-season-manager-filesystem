@@ -1,0 +1,1 @@
+# coti-season-manager-filesystem
