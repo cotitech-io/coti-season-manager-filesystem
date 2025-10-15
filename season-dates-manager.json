@@ -1,0 +1,23 @@
+{
+  "1": {
+    "seasonDescription": "Genesis",
+    "uid": "season1_uid",
+    "start_date": "YYYY-MM-DD",
+    "end_date": "YYYY-MM-DD",
+    "tokenPointsContract": "",
+    "tokenPointsWalletAddress": "",
+    "rules": [
+      { "internal_id": "rule_1", "snag_id": "xx-cc-uuid" },
+      { "internal_id": "rule_2", "snag_id": "ss-cc-uuid" }
+    ]
+  },
+  "2": {
+    "seasonDescription": "Season Two",
+    "uid": "season2_uid",
+    "start_date": "YYYY-MM-DD",
+    "end_date": "YYYY-MM-DD",
+    "tokenPointsContract": "",
+    "tokenPointsWalletAddress": "",
+    "rules": [{ "internal_id": "rule_3", "snag_id": "tt-cc-uuid" }]
+  }
+}
