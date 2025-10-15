@@ -20,8 +20,8 @@
   "2": {
     "seasonDescription": "Season Two",
     "uid": "season2_uid",
-    "start_date": "YYYY-MM-DD",
-    "end_date": "YYYY-MM-DD",
+    "start_date": "2027-04-01",
+    "end_date": "2028-04-01",
     "tokenPointsContract": "",
     "tokenPointsWalletAddress": "",
     "rules": [
