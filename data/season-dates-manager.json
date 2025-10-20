@@ -4,8 +4,8 @@
     "uid": "season1_uid",
     "start_date": "2026-03-02",
     "end_date": "2026-04-02",
-    "tokenPointsContract": "",
-    "tokenPointsWalletAddress": "",
+    "tokenPointsContract": "0x64ec0E875b00DD50A4661462040E7C35084BcB58",
+    "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
     "rules": [
       {
         "internal_id": "rule_1",
@@ -14,20 +14,6 @@
       {
         "internal_id": "rule_2",
         "snag_id": "ss-cc-uuid"
-      }
-    ]
-  },
-  "2": {
-    "seasonDescription": "Season Two",
-    "uid": "season2_uid",
-    "start_date": "2027-03-01",
-    "end_date": "2028-05-01",
-    "tokenPointsContract": "",
-    "tokenPointsWalletAddress": "",
-    "rules": [
-      {
-        "internal_id": "rule_3",
-        "snag_id": "tt-cc-uuid"
       }
     ]
   }
