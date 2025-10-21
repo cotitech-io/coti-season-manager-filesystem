@@ -11,206 +11,184 @@
         {
           "internal_id": "Hold 10$ worth of #WETH on Carbon",
           "snag_id": "cf6651e5-f850-4d56-8b0f-e144e83a3d52",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "7",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold 10$ worth of #USDCe on Carbon",
           "snag_id": "2055f44f-6126-4218-9ebe-011f2870b92a",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "10",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold 10$ worth of #gCOTI on Carbon",
           "snag_id": "386fa5e9-8406-40d7-8efe-faa27c32b95f",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "3",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold 10$ worth of #COTI on Carbon  ",
           "snag_id": "b6dbb5db-f3e9-402d-81b6-b4aa0cd0808f",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "3",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Earn 10 loyalty points per $10 worth of deposited $USDC in Privex",
           "snag_id": "98a08718-32f2-457f-ab15-985035e164cf",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "10",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold $10 worth of COTI in Treasury",
           "snag_id": "7336129e-ba8f-4185-a843-938cad427f29",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "2",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold $10 worth of gCOTI in Treasury",
           "snag_id": "df75ddfb-1e11-4a2a-9e12-67cd52761725",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "2",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold $10 worth of wBTC",
           "snag_id": "a944ba87-8133-42d7-ad6e-17ee452d2bfe",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "6",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold $10 worth of USDC",
           "snag_id": "715a968c-e66e-454b-9265-b96852a1269f",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "8",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         },
         {
           "internal_id": "Hold $10 worth of wETH",
           "snag_id": "ea397657-6d90-4f6a-a0c4-bf100914770b",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "5",
-          "category": "Deposit and Hold",
-          "updateStatus": "checked"
+          "category": "Deposit and Hold"
         }
       ],
       "On Chain Activity": [
         {
           "internal_id": "Top 25 Gas Spenders",
           "snag_id": "81c83963-51b4-44bd-b60d-12e7fd37488e",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "25000",
-          "category": "On Chain Activity",
-          "updateStatus": "checked"
+          "category": "On Chain Activity"
         }
       ],
       "Social Media": [
         {
           "internal_id": "Join Our Discord Channel ",
           "snag_id": "b141541c-5a8d-4d87-a8d5-dc2c77643484",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Connect email ",
           "snag_id": "42a7d4e3-f3da-4af8-b185-6fbd6a8e2757",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Subscribe to YouTube Channel ",
           "snag_id": "fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Join Telegram Group",
           "snag_id": "178390f5-7a10-475d-9c1d-2880acb2a812",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Follow Us on X",
           "snag_id": "290e319a-53a1-4983-9fee-f34487dc2750",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Make A Tweet About COTI !",
           "snag_id": "52bcfb01-ea72-4f07-b2ed-fe900247e2c7",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "5000",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         },
         {
           "internal_id": "Share our Privacy Ad  post on X",
           "snag_id": "51cfe327-33d1-4bda-8812-5c2acf03cfcc",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "750",
-          "category": "Social Media",
-          "updateStatus": "checked"
+          "category": "Social Media"
         }
       ],
       "Educational Quiz": [
         {
           "internal_id": "Blockchain's Transparency",
           "snag_id": "4eb7a639-09ec-4a9e-b36c-4e9ed1db7b1b",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "Educational Quiz",
-          "updateStatus": "checked"
+          "category": "Educational Quiz"
         },
         {
           "internal_id": "What Users Say",
           "snag_id": "a9953687-9196-4d35-bee7-4eb149f33c72",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "Educational Quiz",
-          "updateStatus": "checked"
+          "category": "Educational Quiz"
         },
         {
           "internal_id": "Core Feature of Privacy 2.0",
           "snag_id": "a37f0228-bb3b-402e-beab-10339e7ce61a",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "Educational Quiz",
-          "updateStatus": "checked"
+          "category": "Educational Quiz"
         },
         {
           "internal_id": "COTI's Strategic Partnerships",
           "snag_id": "30fcb7b3-df36-451d-95f0-90664165633e",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "Educational Quiz",
-          "updateStatus": "checked"
+          "category": "Educational Quiz"
         }
       ],
       "Uncategorized": [
@@ -219,75 +197,66 @@
           "snag_id": "0b728552-0a7f-46d8-9906-d67b151084a2",
           "startTime": "2025-09-29T08:14:00.000Z",
           "endTime": "2025-10-29T09:17:00.000Z",
-          "amount": "0",
-          "updateStatus": "deleted"
+          "amount": "0"
         },
         {
           "internal_id": "Which is NOT one of the three COTI Ambassador tiers?",
           "snag_id": "3dc871dc-0d24-4543-b71b-d85a6d86c5ed",
           "startTime": "2025-09-25T08:25:00.000Z",
           "endTime": "2025-10-28T09:26:00.000Z",
-          "amount": "200",
-          "updateStatus": "deleted"
+          "amount": "200"
         }
       ],
       "What is the Builders Program - Quiz": [
         {
           "internal_id": "How can I apply for a COTI Builders program grant?",
           "snag_id": "28dc8f8a-4f30-449d-90bf-98e05d2cda76",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "What is the Builders Program - Quiz",
-          "updateStatus": "checked"
+          "category": "What is the Builders Program - Quiz"
         },
         {
-          "internal_id": "Which type of project is most aligned with COTIÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs funding focus?",
+          "internal_id": "Which type of project is most aligned with COTIs funding focus?",
           "snag_id": "4f8fc628-620f-4378-b338-736768395d0f",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "What is the Builders Program - Quiz",
-          "updateStatus": "updated",
-          "newInternalId": "Which type of project is most aligned with COTIÃ¢ÂÂs funding focus?"
+          "category": "What is the Builders Program - Quiz"
         },
         {
           "internal_id": "Who is eligible to apply for a COTI grant?",
           "snag_id": "4ceb8297-406c-46c3-9931-9424c1aa70d4",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "What is the Builders Program - Quiz",
-          "updateStatus": "checked"
+          "category": "What is the Builders Program - Quiz"
         },
         {
           "internal_id": "What is the primary purpose of the COTI Builders Program?",
           "snag_id": "e8d8dd70-b25e-48f9-8a4c-77e008f21269",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "What is the Builders Program - Quiz",
-          "updateStatus": "checked"
+          "category": "What is the Builders Program - Quiz"
         }
       ],
       "COTI Ambassador Program - Quiz": [
         {
           "internal_id": "Why is the COTI Ambassador Program important today?",
           "snag_id": "d5bafd46-8d12-4662-9ffa-daa9ec6ce42d",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "COTI Ambassador Program - Quiz",
-          "updateStatus": "checked"
+          "category": "COTI Ambassador Program - Quiz"
         },
         {
           "internal_id": "What is the primary purpose of the COTI Ambassador Program?",
           "snag_id": "6e8e023c-9938-4363-a3fa-7d4b7d99c10a",
-          "startTime": "2025-09-07T02:14:00.000Z",
+          "startTime": "2025-10-07T20:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
           "amount": "200",
-          "category": "COTI Ambassador Program - Quiz",
-          "updateStatus": "checked"
+          "category": "COTI Ambassador Program - Quiz"
         }
       ]
     },
@@ -328,7 +297,7 @@
         },
         {
           "internal_id": "4f8fc628-620f-4378-b338-736768395d0f",
-          "snag_id": "Which type of project is most aligned with COTIÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs funding focus?",
+          "snag_id": "Which type of project is most aligned with COTI''''''''¢''''''''''''''''s funding focus?",
           "dateMatch": false,
           "startTime": "2025-09-08T05:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z"
