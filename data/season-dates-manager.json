@@ -219,7 +219,7 @@
           "category": "What is the Builders Program - Quiz"
         },
         {
-          "internal_id": "Which type of project is most aligned with COTIâs funding focus?",
+          "internal_id": "Which type of project is most aligned with COTIÃ¢ÂÂs funding focus?",
           "snag_id": "4f8fc628-620f-4378-b338-736768395d0f",
           "startTime": "2025-09-08T05:14:00.000Z",
           "endTime": "2025-12-29T03:17:00.000Z",
@@ -262,7 +262,95 @@
         }
       ]
     },
-    "start_date": "2025-09-08T05:14:00.000Z",
+    "start_date": "2025-09-07T02:14:00.000Z",
     "end_date": "2025-12-29T03:17:00.000Z"
+  },
+  "2": {
+    "uid": "season_1761045225360_tjbpvn2",
+    "seasonDescription": "New Season",
+    "start_date": "2025-12-29T03:18:00.000Z",
+    "end_date": "2026-01-19T03:18:00.000Z",
+    "tokenPointsContract": "",
+    "tokenPointsWalletAddress": "",
+    "rules": {
+      "COTI Ambassador Program - Quiz": [
+        {
+          "internal_id": "d5bafd46-8d12-4662-9ffa-daa9ec6ce42d",
+          "snag_id": "Why is the COTI Ambassador Program important today?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "6e8e023c-9938-4363-a3fa-7d4b7d99c10a",
+          "snag_id": "What is the primary purpose of the COTI Ambassador Program?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        }
+      ],
+      "What is the Builders Program - Quiz": [
+        {
+          "internal_id": "28dc8f8a-4f30-449d-90bf-98e05d2cda76",
+          "snag_id": "How can I apply for a COTI Builders program grant?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "4f8fc628-620f-4378-b338-736768395d0f",
+          "snag_id": "Which type of project is most aligned with COTIÃ¢ÂÂs funding focus?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "4ceb8297-406c-46c3-9931-9424c1aa70d4",
+          "snag_id": "Who is eligible to apply for a COTI grant?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "e8d8dd70-b25e-48f9-8a4c-77e008f21269",
+          "snag_id": "What is the primary purpose of the COTI Builders Program?",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        }
+      ],
+      "Social Media": [
+        {
+          "internal_id": "51cfe327-33d1-4bda-8812-5c2acf03cfcc",
+          "snag_id": "Share our Privacy Ad  post on X",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
+          "snag_id": "Subscribe to YouTube Channel ",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        }
+      ],
+      "Deposit and Hold": [
+        {
+          "internal_id": "cf6651e5-f850-4d56-8b0f-e144e83a3d52",
+          "snag_id": "Hold 10$ worth of #WETH on Carbon",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        },
+        {
+          "internal_id": "2055f44f-6126-4218-9ebe-011f2870b92a",
+          "snag_id": "Hold 10$ worth of #USDCe on Carbon",
+          "dateMatch": false,
+          "startTime": "2025-09-08T05:14:00.000Z",
+          "endTime": "2025-12-29T03:17:00.000Z"
+        }
+      ]
+    }
   }
 }
