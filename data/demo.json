@@ -233,6 +233,10 @@
           "dateMatch": false
         }
       ]
-    }
+    },
+	"stratuses_id": ["19ae7a23", "bab8e3ad", "3baaa8d8", "54b93c0b", "ccd927e4", "75b67c7d", 
+					"dcb8060b", "e5fa699a", "3baee1d4", "1c96f9b2", "6092d095", "c959c011", "a7658d5a",
+					"5ab21603", "f64315f9"]
+	
   }
 }
