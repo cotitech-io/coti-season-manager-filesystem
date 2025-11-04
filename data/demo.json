@@ -3,7 +3,7 @@
       "uid":"season_1762093683884_gbdb3ab",
       "seasonDescription":"New Season",
       "start_date":"2025-10-02T11:28:00.000Z",
-      "end_date":"2025-11-02T10:28:00.000Z",
+      "end_date":"2025-12-02T10:28:00.000Z",
       "tokenPointsContract":"",
       "tokenPointsWalletAddress":"",
       "rules":{
@@ -255,7 +255,7 @@
    "2":{
       "uid":"season_1762609999999_hf2bg91",
       "seasonDescription":"Winter Season",
-      "start_date":"2025-12-23T00:00:00.000Z",
+      "start_date":"2025-10-23T00:00:00.000Z",
       "end_date":"2026-03-15T23:59:00.000Z",
       "tokenPointsContract":"",
       "tokenPointsWalletAddress":"",
