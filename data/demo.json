@@ -21,7 +21,7 @@
           "name": "Subscribe to YouTube Channel ",
           "id": "fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "750",
           "category": "Social Media",
           "dateMatch": false
@@ -30,7 +30,7 @@
           "name": "Connect email ",
           "id": "42a7d4e3-f3da-4af8-b185-6fbd6a8e2757",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "750",
           "category": "Social Media",
           "dateMatch": false
@@ -39,7 +39,7 @@
           "name": "Join Telegram Group",
           "id": "178390f5-7a10-475d-9c1d-2880acb2a812",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "750",
           "category": "Social Media",
           "dateMatch": false
@@ -48,7 +48,7 @@
           "name": "Join Our Discord Channel ",
           "id": "b141541c-5a8d-4d87-a8d5-dc2c77643484",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "750",
           "category": "Social Media",
           "dateMatch": false
@@ -77,7 +77,7 @@
           "name": "Hold 10$ worth of #WETH on Carbon",
           "id": "cf6651e5-f850-4d56-8b0f-e144e83a3d52",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "7",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -86,7 +86,7 @@
           "name": "Hold 10$ worth of #USDCe on Carbon",
           "id": "2055f44f-6126-4218-9ebe-011f2870b92a",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "10",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -95,7 +95,7 @@
           "name": "Hold 10$ worth of #WBTC on Carbon",
           "id": "79486633-748d-46a3-b170-5024c1e288bb",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "8",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -104,7 +104,7 @@
           "name": "Hold 10$ worth of #gCOTI on Carbon",
           "id": "386fa5e9-8406-40d7-8efe-faa27c32b95f",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "3",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -113,7 +113,7 @@
           "name": "Hold 10$ worth of #COTI on Carbon  ",
           "id": "b6dbb5db-f3e9-402d-81b6-b4aa0cd0808f",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "3",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -122,7 +122,7 @@
           "name": "Earn 10 loyalty points per $10 worth of deposited $USDC in Privex",
           "id": "98a08718-32f2-457f-ab15-985035e164cf",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "10",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -131,7 +131,7 @@
           "name": "Hold $10 worth of COTI in Treasury",
           "id": "7336129e-ba8f-4185-a843-938cad427f29",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "2",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -140,7 +140,7 @@
           "name": "Hold $10 worth of gCOTI in Treasury",
           "id": "df75ddfb-1e11-4a2a-9e12-67cd52761725",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "2",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -149,7 +149,7 @@
           "name": "Hold $10 worth of wBTC",
           "id": "a944ba87-8133-42d7-ad6e-17ee452d2bfe",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "6",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -158,7 +158,7 @@
           "name": "Hold $10 worth of USDC",
           "id": "715a968c-e66e-454b-9265-b96852a1269f",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "8",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -167,7 +167,7 @@
           "name": "Hold $10 worth of wETH",
           "id": "ea397657-6d90-4f6a-a0c4-bf100914770b",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "5",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -216,7 +216,7 @@
           "name": "Top 25 Gas Spenders",
           "id": "81c83963-51b4-44bd-b60d-12e7fd37488e",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "25000",
           "category": "On Chain Activity",
           "dateMatch": false
@@ -227,7 +227,7 @@
           "name": "Refer Your People",
           "id": "30f3ac60-4bfa-49ef-8b54-a8d8baf8f8a3",
           "startTime": "2025-09-01T08:28:00.000Z",
-          "endTime": "2025-11-11T06:28:00.000Z",
+          "endTime": "2025-11-19T02:28:00.000Z",
           "amount": "50",
           "category": "Referals",
           "dateMatch": false
