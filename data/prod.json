@@ -6,6 +6,7 @@
     "end_date": "2025-11-11T13:00:00.000Z",
     "tokenPointsContract": "0x64ec0E875b00DD50A4661462040E7C35084BcB58",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
+	"cms_url": "TBD",
     "rules": {
       "Rule for connected early badge": [
         {
@@ -345,6 +346,7 @@
     "end_date": "2026-01-13T13:01:00.000Z",
     "tokenPointsContract": "TBD",
     "tokenPointsWalletAddress": "TBD",
+	"cms_url": "TBD",
     "rules": {
       "Rule for connected early badge": [
         {
@@ -659,6 +661,22 @@
           "dateMatch": false
         }
       ]
-    }
+    },
+	    "stratuses_id": [
+      "350efe79",
+      "1e01bcfb",
+      "635c912e",
+      "b300f1d2",
+      "c1c2e996",
+      "fc706e57",
+      "2da74557",
+      "0b62c232",
+      "3be5ff7d",
+      "af483797",
+      "bf42747f",
+      "1ba2b488",
+      "b85c531a",
+      "72338547"
+    ]
   }
 }
