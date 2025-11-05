@@ -1,383 +1,383 @@
 {
-   "1":{
-      "uid":"season_1762093683884_gbdb3ab",
-      "seasonDescription":"New Season",
-      "start_date":"2025-10-02T11:28:00.000Z",
-      "end_date":"2025-12-02T10:28:00.000Z",
-      "tokenPointsContract":"",
-      "tokenPointsWalletAddress":"",
-      "rules":{
-         "Social Media":[
-            {
-               "name":"Share our Privacy Ad  post on X",
-               "id":"51cfe327-33d1-4bda-8812-5c2acf03cfcc",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Subscribe to YouTube Channel ",
-               "id":"fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Connect email ",
-               "id":"42a7d4e3-f3da-4af8-b185-6fbd6a8e2757",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Join Telegram Group",
-               "id":"178390f5-7a10-475d-9c1d-2880acb2a812",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Join Our Discord Channel ",
-               "id":"b141541c-5a8d-4d87-a8d5-dc2c77643484",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Make A Tweet About COTI !",
-               "id":"52bcfb01-ea72-4f07-b2ed-fe900247e2c7",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"5000",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Follow Us on X",
-               "id":"290e319a-53a1-4983-9fee-f34487dc2750",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            }
-         ],
-         "Deposit and Hold":[
-            {
-               "name":"Hold 10$ worth of #WETH on Carbon",
-               "id":"cf6651e5-f850-4d56-8b0f-e144e83a3d52",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"7",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold 10$ worth of #USDCe on Carbon",
-               "id":"2055f44f-6126-4218-9ebe-011f2870b92a",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"10",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold 10$ worth of #WBTC on Carbon",
-               "id":"79486633-748d-46a3-b170-5024c1e288bb",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"8",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold 10$ worth of #gCOTI on Carbon",
-               "id":"386fa5e9-8406-40d7-8efe-faa27c32b95f",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"3",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold 10$ worth of #COTI on Carbon  ",
-               "id":"b6dbb5db-f3e9-402d-81b6-b4aa0cd0808f",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"3",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Earn 10 loyalty points per $10 worth of deposited $USDC in Privex",
-               "id":"98a08718-32f2-457f-ab15-985035e164cf",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"10",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of COTI in Treasury",
-               "id":"7336129e-ba8f-4185-a843-938cad427f29",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"2",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of gCOTI in Treasury",
-               "id":"df75ddfb-1e11-4a2a-9e12-67cd52761725",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"2",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of wBTC",
-               "id":"a944ba87-8133-42d7-ad6e-17ee452d2bfe",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"6",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of USDC",
-               "id":"715a968c-e66e-454b-9265-b96852a1269f",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"8",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of wETH",
-               "id":"ea397657-6d90-4f6a-a0c4-bf100914770b",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"5",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            }
-         ],
-         "Educational Quiz":[
-            {
-               "name":"COTI's Strategic Partnerships",
-               "id":"30fcb7b3-df36-451d-95f0-90664165633e",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            },
-            {
-               "name":"Core Feature of Privacy 2.0",
-               "id":"a37f0228-bb3b-402e-beab-10339e7ce61a",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            },
-            {
-               "name":"What Users Say",
-               "id":"a9953687-9196-4d35-bee7-4eb149f33c72",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            },
-            {
-               "name":"Blockchain's Transparency",
-               "id":"4eb7a639-09ec-4a9e-b36c-4e9ed1db7b1b",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            }
-         ],
-         "On Chain Activity":[
-            {
-               "name":"Top 25 Gas Spenders",
-               "id":"81c83963-51b4-44bd-b60d-12e7fd37488e",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"25000",
-               "category":"On Chain Activity",
-               "dateMatch":false
-            }
-         ],
-         "Referals":[
-            {
-               "name":"Refer Your People",
-               "id":"30f3ac60-4bfa-49ef-8b54-a8d8baf8f8a3",
-               "startTime":"2025-10-02T11:28:00.000Z",
-               "endTime":"2026-11-23T12:28:00.000Z",
-               "amount":"50",
-               "category":"Referals",
-               "dateMatch":false
-            }
-         ]
-      },
-      "stratuses_id":[
-         "19ae7a23",
-         "bab8e3ad",
-         "3baaa8d8",
-         "54b93c0b",
-         "ccd927e4",
-         "75b67c7d",
-         "dcb8060b",
-         "e5fa699a",
-         "3baee1d4",
-         "1c96f9b2",
-         "6092d095",
-         "c959c011",
-         "a7658d5a",
-         "5ab21603",
-         "f64315f9"
+  "1": {
+    "uid": "season_1762093683884_gbdb3ab",
+    "seasonDescription": "Season 1",
+    "start_date": "2025-09-01T08:28:00.000Z",
+    "end_date": "2025-11-11T06:28:00.000Z",
+    "tokenPointsContract": "0xa006A4Ae05FAEF7FF2020167b2a59f33b992B5a7",
+    "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+    "rules": {
+      "Social Media": [
+        {
+          "name": "Share our Privacy Ad  post on X",
+          "id": "51cfe327-33d1-4bda-8812-5c2acf03cfcc",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Subscribe to YouTube Channel ",
+          "id": "fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Connect email ",
+          "id": "42a7d4e3-f3da-4af8-b185-6fbd6a8e2757",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Join Telegram Group",
+          "id": "178390f5-7a10-475d-9c1d-2880acb2a812",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Join Our Discord Channel ",
+          "id": "b141541c-5a8d-4d87-a8d5-dc2c77643484",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Make A Tweet About COTI !",
+          "id": "52bcfb01-ea72-4f07-b2ed-fe900247e2c7",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "5000",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Follow Us on X",
+          "id": "290e319a-53a1-4983-9fee-f34487dc2750",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        }
+      ],
+      "Deposit and Hold": [
+        {
+          "name": "Hold 10$ worth of #WETH on Carbon",
+          "id": "cf6651e5-f850-4d56-8b0f-e144e83a3d52",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "7",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #USDCe on Carbon",
+          "id": "2055f44f-6126-4218-9ebe-011f2870b92a",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "10",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #WBTC on Carbon",
+          "id": "79486633-748d-46a3-b170-5024c1e288bb",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "8",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #gCOTI on Carbon",
+          "id": "386fa5e9-8406-40d7-8efe-faa27c32b95f",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "3",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #COTI on Carbon  ",
+          "id": "b6dbb5db-f3e9-402d-81b6-b4aa0cd0808f",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "3",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Earn 10 loyalty points per $10 worth of deposited $USDC in Privex",
+          "id": "98a08718-32f2-457f-ab15-985035e164cf",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "10",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of COTI in Treasury",
+          "id": "7336129e-ba8f-4185-a843-938cad427f29",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "2",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of gCOTI in Treasury",
+          "id": "df75ddfb-1e11-4a2a-9e12-67cd52761725",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "2",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of wBTC",
+          "id": "a944ba87-8133-42d7-ad6e-17ee452d2bfe",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "6",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of USDC",
+          "id": "715a968c-e66e-454b-9265-b96852a1269f",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "8",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of wETH",
+          "id": "ea397657-6d90-4f6a-a0c4-bf100914770b",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "5",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        }
+      ],
+      "Educational Quiz": [
+        {
+          "name": "COTI's Strategic Partnerships",
+          "id": "30fcb7b3-df36-451d-95f0-90664165633e",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        },
+        {
+          "name": "Core Feature of Privacy 2.0",
+          "id": "a37f0228-bb3b-402e-beab-10339e7ce61a",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        },
+        {
+          "name": "What Users Say",
+          "id": "a9953687-9196-4d35-bee7-4eb149f33c72",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        },
+        {
+          "name": "Blockchain's Transparency",
+          "id": "4eb7a639-09ec-4a9e-b36c-4e9ed1db7b1b",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-23T12:28:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        }
+      ],
+      "On Chain Activity": [
+        {
+          "name": "Top 25 Gas Spenders",
+          "id": "81c83963-51b4-44bd-b60d-12e7fd37488e",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "25000",
+          "category": "On Chain Activity",
+          "dateMatch": false
+        }
+      ],
+      "Referals": [
+        {
+          "name": "Refer Your People",
+          "id": "30f3ac60-4bfa-49ef-8b54-a8d8baf8f8a3",
+          "startTime": "2025-10-02T11:28:00.000Z",
+          "endTime": "2026-11-22T10:28:00.000Z",
+          "amount": "50",
+          "category": "Referals",
+          "dateMatch": false
+        }
       ]
-   },
-   "2":{
-      "uid":"season_1762609999999_hf2bg91",
-      "seasonDescription":"Winter Season",
-      "start_date":"2025-10-23T00:00:00.000Z",
-      "end_date":"2026-03-15T23:59:00.000Z",
-      "tokenPointsContract":"",
-      "tokenPointsWalletAddress":"",
-      "rules":{
-         "Social Media":[
-            {
-               "name":"Share our New Year post on X",
-               "id":"8c1a2234-53a4-44cc-b15f-baa4bb67f310",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"800",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Follow Us on X",
-               "id":"7e91eeb7-4e13-4914-9055-9727a6219b3e",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            },
-            {
-               "name":"Join Our Discord Channel",
-               "id":"6b7a82e0-6f39-497a-b0f2-c121b5d4e2e9",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"750",
-               "category":"Social Media",
-               "dateMatch":false
-            }
-         ],
-         "Deposit and Hold":[
-            {
-               "name":"Hold 10$ worth of #USDCe on Carbon",
-               "id":"fc561f12-f32d-4e6a-9871-d28b6ef22391",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"10",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold 10$ worth of #COTI on Carbon",
-               "id":"18b651e5-f850-4d56-8b0f-e144e83a3d90",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"3",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            },
-            {
-               "name":"Hold $10 worth of wETH",
-               "id":"ea397657-6d90-4f6a-a0c4-bf1009147720",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"6",
-               "category":"Deposit and Hold",
-               "dateMatch":false
-            }
-         ],
-         "Educational Quiz":[
-            {
-               "name":"COTI Ecosystem Basics",
-               "id":"e77b6d93-4a45-4331-8dc2-bd53b2c94181",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            },
-            {
-               "name":"Privacy 2.0 Key Features",
-               "id":"a34f0228-bb3b-402e-beab-10339e7ce62b",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"200",
-               "category":"Educational Quiz",
-               "dateMatch":false
-            }
-         ],
-         "On Chain Activity":[
-            {
-               "name":"Top 10 Gas Spenders (Winter Edition)",
-               "id":"91c83963-51b4-44bd-b60d-12e7fd37488e",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"30000",
-               "category":"On Chain Activity",
-               "dateMatch":false
-            }
-         ],
-         "Referals":[
-            {
-               "name":"Invite Friends to COTI Winter Season",
-               "id":"f0b3ac60-4bfa-49ef-8b54-a8d8baf8f8c2",
-               "startTime":"2025-12-23T00:00:00.000Z",
-               "endTime":"2026-03-15T23:59:00.000Z",
-               "amount":"60",
-               "category":"Referals",
-               "dateMatch":false
-            }
-         ]
-      },
-      "stratuses_id":[
-         "19ae7a23",
-         "bab8e3ad",
-         "3baaa8d8",
-         "54b93c0b",
-         "ccd927e4",
-         "75b67c7d",
-         "dcb8060b",
-         "e5fa699a",
-         "3baee1d4",
-         "1c96f9b2",
-         "6092d095",
-         "c959c011",
-         "a7658d5a",
-         "5ab21603",
-         "f64315f9",
-         "c2cfbae8"
+    },
+    "stratuses_id": [
+      "19ae7a23",
+      "bab8e3ad",
+      "3baaa8d8",
+      "54b93c0b",
+      "ccd927e4",
+      "75b67c7d",
+      "dcb8060b",
+      "e5fa699a",
+      "3baee1d4",
+      "1c96f9b2",
+      "6092d095",
+      "c959c011",
+      "a7658d5a",
+      "5ab21603",
+      "f64315f9"
+    ]
+  },
+  "2": {
+    "uid": "season_1762609999999_hf2bg91",
+    "seasonDescription": "Winter Season",
+    "start_date": "2025-11-11T22:00:00.000Z",
+    "end_date": "2026-01-01T21:59:00.000Z",
+    "tokenPointsContract": "TBD",
+    "tokenPointsWalletAddress": "TBD",
+    "rules": {
+      "Social Media": [
+        {
+          "name": "Share our New Year post on X",
+          "id": "8c1a2234-53a4-44cc-b15f-baa4bb67f310",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "800",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Follow Us on X",
+          "id": "7e91eeb7-4e13-4914-9055-9727a6219b3e",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Join Our Discord Channel",
+          "id": "6b7a82e0-6f39-497a-b0f2-c121b5d4e2e9",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        }
+      ],
+      "Deposit and Hold": [
+        {
+          "name": "Hold 10$ worth of #USDCe on Carbon",
+          "id": "fc561f12-f32d-4e6a-9871-d28b6ef22391",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "10",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #COTI on Carbon",
+          "id": "18b651e5-f850-4d56-8b0f-e144e83a3d90",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "3",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of wETH",
+          "id": "ea397657-6d90-4f6a-a0c4-bf1009147720",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "6",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        }
+      ],
+      "Educational Quiz": [
+        {
+          "name": "COTI Ecosystem Basics",
+          "id": "e77b6d93-4a45-4331-8dc2-bd53b2c94181",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        },
+        {
+          "name": "Privacy 2.0 Key Features",
+          "id": "a34f0228-bb3b-402e-beab-10339e7ce62b",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "200",
+          "category": "Educational Quiz",
+          "dateMatch": false
+        }
+      ],
+      "On Chain Activity": [
+        {
+          "name": "Top 10 Gas Spenders (Winter Edition)",
+          "id": "91c83963-51b4-44bd-b60d-12e7fd37488e",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "30000",
+          "category": "On Chain Activity",
+          "dateMatch": false
+        }
+      ],
+      "Referals": [
+        {
+          "name": "Invite Friends to COTI Winter Season",
+          "id": "f0b3ac60-4bfa-49ef-8b54-a8d8baf8f8c2",
+          "startTime": "2025-12-23T00:00:00.000Z",
+          "endTime": "2026-03-15T23:59:00.000Z",
+          "amount": "60",
+          "category": "Referals",
+          "dateMatch": false
+        }
       ]
-   }
+    },
+    "stratuses_id": [
+      "19ae7a23",
+      "bab8e3ad",
+      "3baaa8d8",
+      "54b93c0b",
+      "ccd927e4",
+      "75b67c7d",
+      "dcb8060b",
+      "e5fa699a",
+      "3baee1d4",
+      "1c96f9b2",
+      "6092d095",
+      "c959c011",
+      "a7658d5a",
+      "5ab21603",
+      "f64315f9",
+      "c2cfbae8"
+    ]
+  }
 }
