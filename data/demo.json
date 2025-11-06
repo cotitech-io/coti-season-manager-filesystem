@@ -6,6 +6,7 @@
     "end_date": "2025-11-19T02:28:00.000Z",
     "tokenPointsContract": "0xa006A4Ae05FAEF7FF2020167b2a59f33b992B5a7",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+    "cms_url": "http://cms-coti-03Dc-TPS001:8000/api/v1/snag-helper/mint",
     "rules": {
       "Social Media": [
         {
@@ -257,8 +258,9 @@
     "seasonDescription": "Winter Season",
     "start_date": "2025-11-11T22:00:00.000Z",
     "end_date": "2026-01-01T21:59:00.000Z",
-    "tokenPointsContract": "TBD",
-    "tokenPointsWalletAddress": "TBD",
+    "tokenPointsContract": "0xe584d2a7d44a492ca5e12f8e3e4992c1a4c9ec57",
+    "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+    "cms_url": "http://cms-coti-03Dc-TPS002:8000/api/v1/snag-helper/mint",
     "rules": {
       "Social Media": [
         {
