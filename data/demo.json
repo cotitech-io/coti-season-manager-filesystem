@@ -261,6 +261,7 @@
     "end_date": "2026-01-11T11:31:00.000Z",
     "tokenPointsContract": "0xe584D2a7d44A492Ca5e12F8e3E4992C1A4C9EC57",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+    "cms_url": "http://cms-coti-03Dc-TPS002:8000/api/v1/snag-helper/mint",
     "rules": {
       "Deposit and Hold": [
         {
@@ -440,7 +441,26 @@
           "category": "Referals",
           "dateMatch": false
         }
+        
       ]
-    }
+    },
+	"stratuses_id": [
+      "19ae7a23",
+      "bab8e3ad",
+      "3baaa8d8",
+      "54b93c0b",
+      "ccd927e4",
+      "75b67c7d",
+      "dcb8060b",
+      "e5fa699a",
+      "3baee1d4",
+      "1c96f9b2",
+      "6092d095",
+      "c959c011",
+      "a7658d5a",
+      "5ab21603",
+      "f64315f9",
+      "c2cfbae8"
+    ]
   }
 }
