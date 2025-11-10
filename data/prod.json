@@ -6,7 +6,7 @@
     "end_date": "2025-11-11T13:00:00.000Z",
     "tokenPointsContract": "0x64ec0E875b00DD50A4661462040E7C35084BcB58",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
-	"cms_url": "TBD",
+	"cms_url": "http://cms-coti-0BF9-TPS001:8000/api/v1/snag-helper/mint",
     "rules": {
       "Rule for connected early badge": [
         {
