@@ -345,6 +345,7 @@
     "end_date": "2026-01-13T12:59:00.000Z",
     "tokenPointsContract": "0x55c32C7821985deDc79757802168B39aF729f99c",
     "tokenPointsWalletAddress": "0x0bf9c15cbd9f0fac9fc6ab90f0603e89818489bd",
+	"cms_url": "http://cms-coti-0BF9-TPS002:8000/api/v1/snag-helper/mint",
     "rules": {
       "Social Media": [
         {
@@ -525,6 +526,22 @@
           "dateMatch": false
         }
       ]
-    }
+    },
+	    "stratuses_id": [
+      "350efe79",
+      "1e01bcfb",
+      "635c912e",
+      "b300f1d2",
+      "c1c2e996",
+      "fc706e57",
+      "2da74557",
+      "3be5ff7d",
+      "af483797",
+      "bf42747f",
+      "1ba2b488",
+      "b85c531a",
+      "72338547",
+	  "2fa01418"
+    ]
   }
 }
