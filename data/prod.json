@@ -551,6 +551,7 @@
     "end_date": "2026-04-07T11:59:00.000Z",
     "tokenPointsContract": "0x9eC8c1459B92e8f19fE160E63e169e7EFAAA4359",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
+    "cms_url": "https://simon_waiting_for_it.co.il",
     "rules": {
       "Build": [
         {
@@ -596,7 +597,7 @@
           "id": "0487f689-8928-4d3d-88d1-47a812772f6a",
           "startTime": "2025-11-12T22:27:00.000Z",
           "endTime": "2026-01-13T12:59:00.000Z",
-          "amount": "0",
+          "amount": "200",
           "category": "Social Media",
           "dateMatch": false
         },
@@ -768,7 +769,22 @@
           "category": "On Chain Activity ",
           "dateMatch": false
         }
-      ]
+      ],
+          "stratuses_id": [
+      "350efe79",
+      "1e01bcfb",
+      "635c912e",
+      "b300f1d2",
+      "c1c2e996",
+      "fc706e57",
+      "2da74557",
+      "3be5ff7d",
+      "af483797",
+      "bf42747f",
+      "1ba2b488",
+      "b85c531a",
+      "72338547"
+    ]
     }
   }
 }
