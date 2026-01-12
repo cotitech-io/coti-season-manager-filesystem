@@ -551,7 +551,7 @@
     "end_date": "2026-04-07T11:59:00.000Z",
     "tokenPointsContract": "0x9eC8c1459B92e8f19fE160E63e169e7EFAAA4359",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
-    "cms_url": "https://simon_waiting_for_it.co.il",
+    "cms_url": "http://cms-coti-0BF9-TPS003:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Build": [
         {
