@@ -345,7 +345,7 @@
     "end_date": "2026-01-13T12:59:00.000Z",
     "tokenPointsContract": "0x55c32C7821985deDc79757802168B39aF729f99c",
     "tokenPointsWalletAddress": "0x0bf9c15cbd9f0fac9fc6ab90f0603e89818489bd",
-    "cms_url": "http://cms-coti-0BF9-TPS002:8000/api/v1/snag-helper/mint",
+    "cms_url": "http://cms-coti-0BF9-TPS002:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Social Media": [
         {
