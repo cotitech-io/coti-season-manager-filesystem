@@ -678,8 +678,9 @@
           "category": "Referals",
           "dateMatch": false
         }
-      ],
-	      "stratuses_id": [
+      ]
+    },
+		      "stratuses_id": [
       "19ae7a23",
       "bab8e3ad",
       "3baaa8d8",
@@ -698,6 +699,5 @@
       "c2cfbae8",
 	  "7be3fed6"
     ]
-    }
   }
 }
