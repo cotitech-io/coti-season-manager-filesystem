@@ -469,7 +469,7 @@
     "end_date": "2026-04-07T12:59:00.000Z",
     "tokenPointsContract": "0x8a5eae126aCc266acFF27eA4b84f7C390e4bF66A",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-	"cms_url": null,
+    "cms_url": null,
     "rules": {
       "Build": [
         {
@@ -680,7 +680,7 @@
         }
       ]
     },
-		      "stratuses_id": [
+    "stratuses_id": [
       "19ae7a23",
       "bab8e3ad",
       "3baaa8d8",
@@ -697,10 +697,10 @@
       "5ab21603",
       "f64315f9",
       "c2cfbae8",
-	  "7be3fed6",
-	  "7826603e",
-	  "5d23a045",
-	  "4c669a04"
+      "7be3fed6",
+      "7826603e",
+      "5d23a045",
+      "4c669a04"
     ]
   }
 }
