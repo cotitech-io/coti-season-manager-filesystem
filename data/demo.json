@@ -469,7 +469,7 @@
     "end_date": "2026-06-07T12:59:00.000Z",
     "tokenPointsContract": "0x8a5eae126aCc266acFF27eA4b84f7C390e4bF66A",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-	"cms_url": null,
+	"cms_url": "http://cms-coti-03Dc-TPS003:8000/api/v1/snag-helper/mint",
     "rules": {
       "Build": [
         {
