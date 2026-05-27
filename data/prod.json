@@ -6,6 +6,7 @@
       "end_date":"2025-11-11T13:00:00.000Z",
       "tokenPointsContract":"0x64ec0E875b00DD50A4661462040E7C35084BcB58",
       "tokenPointsWalletAddress":"0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
+	  "claimContract":"0xC654C949ed1DDCDb0e15FfF2d3415D565Fe585E7",
       "cms_url":"http://cms-coti-0BF9-TPS001:8000/api/v1/snag-helper/mint",
       "rules":{
          "Rule for connected early badge":[
@@ -345,6 +346,7 @@
       "end_date":"2026-01-13T12:59:00.000Z",
       "tokenPointsContract":"0x55c32C7821985deDc79757802168B39aF729f99c",
       "tokenPointsWalletAddress":"0x0bf9c15cbd9f0fac9fc6ab90f0603e89818489bd",
+	   "claimContract":"0x3E70236dB1988A5C252F0782138e7452047B63BF",
       "cms_url":"http://cms-coti-0BF9-TPS002:8000/api/v1/mint-disperser/mint",
       "rules":{
          "Social Media":[
@@ -548,9 +550,10 @@
       "uid":"season_1767881155936_dve0nv0",
       "seasonDescription":"Season 3",
       "start_date":"2026-01-13T13:00:00.000Z",
-      "end_date":"2026-04-07T11:59:00.000Z",
+      "end_date":"2026-06-07T11:59:00.000Z",
       "tokenPointsContract":"0x9eC8c1459B92e8f19fE160E63e169e7EFAAA4359",
       "tokenPointsWalletAddress":"0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
+	   "claimContract":"",
       "cms_url":"http://cms-coti-0BF9-TPS003:8000/api/v1/mint-disperser/mint",
       "rules":{
          "Build":[
@@ -558,7 +561,7 @@
                "name":"Mint Domain on ZNS",
                "id":"d451abe4-b063-4ed0-bf0a-9c0def681101",
                "startTime":"2026-01-13T13:00:00.000Z",
-               "endTime":"2026-04-07T11:59:00.000Z",
+               "endTime":"2026-06-07T11:59:00.000Z",
                "amount":"1000",
                "category":"Build",
                "dateMatch":true
@@ -567,7 +570,7 @@
                "name":"Mint NFT on Crafter",
                "id":"c702eff7-e0cc-48c8-ad5b-4110a10bc64c",
                "startTime":"2026-01-13T13:00:00.000Z",
-               "endTime":"2026-04-07T11:59:00.000Z",
+               "endTime":"2026-06-07T11:59:00.000Z",
                "amount":"100",
                "category":"Build",
                "dateMatch":true
