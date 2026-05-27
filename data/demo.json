@@ -6,6 +6,7 @@
     "end_date": "2025-11-11T10:30:00.000Z",
     "tokenPointsContract": "0xa006A4Ae05FAEF7FF2020167b2a59f33b992B5a7",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+	"claimContract": "0xF091Fdc92862527FbEF262665AaF037a94D785C8",
     "cms_url": "http://cms-coti-03Dc-TPS001:8000/api/v1/snag-helper/mint",
     "rules": {
       "Social Media": [
@@ -261,6 +262,7 @@
     "end_date": "2026-01-13T12:59:00.000Z",
     "tokenPointsContract": "0xe584D2a7d44A492Ca5e12F8e3E4992C1A4C9EC57",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+	"claimContract": "0x9cCdcc8CFD8f18e8FF7ba84642d942f05d9CDd08",
     "cms_url": "http://cms-coti-03Dc-TPS002:8000/api/v1/snag-helper/mint",
     "rules": {
       "Deposit and Hold": [
@@ -469,6 +471,7 @@
     "end_date": "2026-06-07T12:59:00.000Z",
     "tokenPointsContract": "0x8a5eae126aCc266acFF27eA4b84f7C390e4bF66A",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+	"claimContract": "0xbA3EDde0A80f73c62722CED6c121f409d99999eF",
 	"cms_url": "http://cms-coti-03Dc-TPS003:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Build": [
