@@ -714,7 +714,7 @@
     "end_date": "2026-11-29T14:00:00.000Z",
     "tokenPointsContract": "0xadeD2D396Fb1cC0a66ADB4bB09C546b6620b7722",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-    "claimContract": "",
+    "claimContract": "0xbA3EDde0A80f73c62722CED6c121f409d99999eF",
     "cms_url": "http://cms-coti-03Dc-TPS004:8000/api/v1/snag-helper/mint",    
     "rules": {
       "Deposit and Hold": [
