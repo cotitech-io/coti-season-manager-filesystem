@@ -6,7 +6,7 @@
     "end_date": "2025-11-11T10:30:00.000Z",
     "tokenPointsContract": "0xa006A4Ae05FAEF7FF2020167b2a59f33b992B5a7",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-	"claimContract": "0xF091Fdc92862527FbEF262665AaF037a94D785C8",
+    "claimContract": "0xF091Fdc92862527FbEF262665AaF037a94D785C8",
     "cms_url": "http://cms-coti-03Dc-TPS001:8000/api/v1/snag-helper/mint",
     "rules": {
       "Social Media": [
@@ -262,7 +262,7 @@
     "end_date": "2026-01-13T12:59:00.000Z",
     "tokenPointsContract": "0xe584D2a7d44A492Ca5e12F8e3E4992C1A4C9EC57",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-	"claimContract": "0x9cCdcc8CFD8f18e8FF7ba84642d942f05d9CDd08",
+    "claimContract": "0x9cCdcc8CFD8f18e8FF7ba84642d942f05d9CDd08",
     "cms_url": "http://cms-coti-03Dc-TPS002:8000/api/v1/snag-helper/mint",
     "rules": {
       "Deposit and Hold": [
@@ -471,8 +471,8 @@
     "end_date": "2026-06-07T12:59:00.000Z",
     "tokenPointsContract": "0x8a5eae126aCc266acFF27eA4b84f7C390e4bF66A",
     "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
-	"claimContract": "0xbA3EDde0A80f73c62722CED6c121f409d99999eF",
-	"cms_url": "http://cms-coti-03Dc-TPS003:8000/api/v1/mint-disperser/mint",
+    "claimContract": "0xbA3EDde0A80f73c62722CED6c121f409d99999eF",
+    "cms_url": "http://cms-coti-03Dc-TPS003:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Build": [
         {
@@ -683,7 +683,7 @@
         }
       ]
     },
-		      "stratuses_id": [
+    "stratuses_id": [
       "19ae7a23",
       "bab8e3ad",
       "3baaa8d8",
@@ -700,11 +700,292 @@
       "5ab21603",
       "f64315f9",
       "c2cfbae8",
-	  "7be3fed6",
-	  "7826603e",
-	  "5d23a045",
-	  "4c669a04",
-	  "f90e98c0-2455-4bc5-93d4-595deed1c8f4"
+      "7be3fed6",
+      "7826603e",
+      "5d23a045",
+      "4c669a04",
+      "f90e98c0-2455-4bc5-93d4-595deed1c8f4"
     ]
+  },
+  "4": {
+    "uid": "season_1780297918754_oza0379",
+    "seasonDescription": "Season 4",
+    "start_date": "2026-06-07T13:00:00.000Z",
+    "end_date": "2026-11-29T14:00:00.000Z",
+    "tokenPointsContract": "0xadeD2D396Fb1cC0a66ADB4bB09C546b6620b7722",
+    "tokenPointsWalletAddress": "0x03DcABBbeB61DE882BBb542ea20eB8C6262814D1",
+    "rules": {
+      "Deposit and Hold": [
+        {
+          "name": "Hold 10$ worth of $NIGHT on Carbon",
+          "id": "e6549a35-ab04-4a8b-a276-fb5125d78146",
+          "startTime": "2026-05-27T08:27:00.000Z",
+          "endTime": null,
+          "amount": "30",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold wADA in Carbon - 30 points",
+          "id": "3cd8b3b7-6dc5-46d8-8cdc-ca7ce6e427c3",
+          "startTime": "2026-01-25T13:12:00.000Z",
+          "endTime": null,
+          "amount": "30",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold USDT in Carbon - 30 points",
+          "id": "b162b82e-d5f8-4bca-be92-60ca680a20c6",
+          "startTime": "2026-01-25T12:49:00.000Z",
+          "endTime": null,
+          "amount": "30",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 USDT on mainnet - 20 points",
+          "id": "74a771ac-12c6-4087-b24f-bf76042edb47",
+          "startTime": "2026-01-20T11:24:00.000Z",
+          "endTime": null,
+          "amount": "20",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "HOLD $10 wADA - 20 points",
+          "id": "6ca3fd6f-0afd-44f3-aecd-86b962824d2e",
+          "startTime": "2026-01-20T10:21:00.000Z",
+          "endTime": "2026-06-06T21:00:00.000Z",
+          "amount": "20",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Lend $10 wstCOTI in Accumulated Finance - 20 points",
+          "id": "575122b6-d542-4be9-8bd4-5480d2a8a714",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "20",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #WETH on Carbon",
+          "id": "cf6651e5-f850-4d56-8b0f-e144e83a3d52",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "30",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #USDCe on Carbon",
+          "id": "2055f44f-6126-4218-9ebe-011f2870b92a",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "10",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #WBTC on Carbon",
+          "id": "79486633-748d-46a3-b170-5024c1e288bb",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "8",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #gCOTI on Carbon",
+          "id": "386fa5e9-8406-40d7-8efe-faa27c32b95f",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "3",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold 10$ worth of #COTI on Carbon  ",
+          "id": "b6dbb5db-f3e9-402d-81b6-b4aa0cd0808f",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "3",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Earn 10 loyalty points per $10 worth of deposited $USDC in Privex",
+          "id": "98a08718-32f2-457f-ab15-985035e164cf",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "10",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of COTI in Treasury",
+          "id": "7336129e-ba8f-4185-a843-938cad427f29",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "2",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of gCOTI in Treasury",
+          "id": "df75ddfb-1e11-4a2a-9e12-67cd52761725",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "2",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of wBTC",
+          "id": "a944ba87-8133-42d7-ad6e-17ee452d2bfe",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "6",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of USDC",
+          "id": "715a968c-e66e-454b-9265-b96852a1269f",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "8",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        },
+        {
+          "name": "Hold $10 worth of wETH",
+          "id": "ea397657-6d90-4f6a-a0c4-bf100914770b",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "5",
+          "category": "Deposit and Hold",
+          "dateMatch": false
+        }
+      ],
+      "Social Media": [
+        {
+          "name": "testing star github",
+          "id": "87302a28-332f-4adf-817d-23f7b58f21f4",
+          "startTime": "2026-05-20T08:40:00.000Z",
+          "endTime": null,
+          "amount": "3200",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Connect X Account",
+          "id": "7e05bd0e-901f-4f45-9bb1-591292341567",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "1",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Get TPs for X Impression range",
+          "id": "5f19568f-9006-426c-be2a-8f1f5fcd1678",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "0",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Subscribe to YouTube Channel ",
+          "id": "fd923ad3-9ccf-4fae-a1ba-f9917415ef2e",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Connect email ",
+          "id": "42a7d4e3-f3da-4af8-b185-6fbd6a8e2757",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Join Telegram Group",
+          "id": "178390f5-7a10-475d-9c1d-2880acb2a812",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        },
+        {
+          "name": "Join Our Discord Channel ",
+          "id": "b141541c-5a8d-4d87-a8d5-dc2c77643484",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "750",
+          "category": "Social Media",
+          "dateMatch": false
+        }
+      ],
+      "Build": [
+        {
+          "name": "Mint NFT from Crafter",
+          "id": "0c56dd87-a2ea-4b40-8fdc-7cd05307c814",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "100",
+          "category": "Build",
+          "dateMatch": false
+        },
+        {
+          "name": "Buy Domain on ZNS!",
+          "id": "d423562f-ed94-4cd7-8980-d56f876bfe81",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "1000",
+          "category": "Build",
+          "dateMatch": false
+        },
+        {
+          "name": "Deploy your own Private Token",
+          "id": "13908e49-e6c1-4c89-b380-483aab10fbcd",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "7500",
+          "category": "Build",
+          "dateMatch": false
+        }
+      ],
+      "On Chain Activity": [
+        {
+          "name": "Top 25 Gas Spenders",
+          "id": "81c83963-51b4-44bd-b60d-12e7fd37488e",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "25000",
+          "category": "On Chain Activity",
+          "dateMatch": false
+        }
+      ],
+      "Referals": [
+        {
+          "name": "Refer Your People",
+          "id": "30f3ac60-4bfa-49ef-8b54-a8d8baf8f8a3",
+          "startTime": "2026-01-13T13:00:00.000Z",
+          "endTime": "2026-06-07T12:00:00.000Z",
+          "amount": "50",
+          "category": "Referals",
+          "dateMatch": false
+        }
+      ]
+    }
   }
 }
