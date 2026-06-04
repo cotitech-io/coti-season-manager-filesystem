@@ -802,6 +802,8 @@
     "end_date": "2026-11-29T13:00:00.000Z",
     "tokenPointsContract": "0x9eC8c1459B92e8f19fE160E63e169e7EFAAA4359",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
+    "claimContract": "0x6f05f45897A3c8cBC4Cb384cB69d5425C13fbAe2",
+    "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/snag-helper/mint",
     "rules": {
       "Deposit and Hold": [
         {
@@ -1056,6 +1058,22 @@
           "dateMatch": false
         }
       ]
-    }
+    },
+        "stratuses_id": [
+      "350efe79",
+      "1e01bcfb",
+      "635c912e",
+      "b300f1d2",
+      "c1c2e996",
+      "fc706e57",
+      "2da74557",
+      "3be5ff7d",
+      "af483797",
+      "bf42747f",
+      "1ba2b488",
+      "b85c531a",
+      "72338547",
+      "2fa01418"
+    ]
   }
 }
