@@ -163,7 +163,7 @@
       ],
       "What is the Builders Program - Quiz": [
         {
-          "name": "Which type of project is most aligned with COTI''''''s funding focus?",
+          "name": "Which type of project is most aligned with COTI''''''''s funding focus?",
           "id": "fc8f8cbe-9a79-495e-a290-b461be530464",
           "startTime": "2025-09-30T15:22:00.000Z",
           "endTime": "2025-10-09T11:58:00.000Z",
@@ -800,7 +800,7 @@
     "seasonDescription": "Season 4",
     "start_date": "2026-06-07T12:00:00.000Z",
     "end_date": "2026-11-29T13:00:00.000Z",
-    "tokenPointsContract": "0x9eC8c1459B92e8f19fE160E63e169e7EFAAA4359",
+    "tokenPointsContract": "0x3F577B64E5CE5F2d00607770368d623cECc4FF7D",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
     "claimContract": "0x6f05f45897A3c8cBC4Cb384cB69d5425C13fbAe2",
     "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/snag-helper/mint",
@@ -1059,7 +1059,7 @@
         }
       ]
     },
-        "stratuses_id": [
+    "stratuses_id": [
       "350efe79",
       "1e01bcfb",
       "635c912e",
