@@ -927,7 +927,7 @@
           "name": "Treasury: 10$ COTI - 5 points",
           "id": "e7ed7ca8-7e7a-464b-8f0e-5e4a4caf5eff",
           "startTime": "2026-01-13T13:01:00.000Z",
-          "endTime": "2026-06-07T11:59:00.000Z",
+          "endTime": "2026-08-07T11:59:00.000Z",
           "amount": "5",
           "category": "Deposit and Hold",
           "dateMatch": false
