@@ -799,11 +799,11 @@
     "uid": "season_1780585386148_eipz6a8",
     "seasonDescription": "Season 4",
     "start_date": "2026-06-07T12:00:00.000Z",
-    "end_date": "2026-11-29T13:00:00.000Z",
+    "end_date": "2026-10-25T11:59:00.000Z",
     "tokenPointsContract": "0x3F577B64E5CE5F2d00607770368d623cECc4FF7D",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
     "claimContract": "",
-    "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/snag-helper/mint",
+    "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Deposit and Hold": [
         {
@@ -927,7 +927,7 @@
           "name": "Treasury: 10$ COTI - 5 points",
           "id": "e7ed7ca8-7e7a-464b-8f0e-5e4a4caf5eff",
           "startTime": "2026-01-13T13:01:00.000Z",
-          "endTime": "2026-06-07T11:59:00.000Z",
+          "endTime": "2026-08-07T11:59:00.000Z",
           "amount": "5",
           "category": "Deposit and Hold",
           "dateMatch": false
@@ -1062,7 +1062,10 @@
     "stratuses_id": [
       "350efe79",
       "1e01bcfb",
+      "6c51ea3a",
+      "6a833666",
       "635c912e",
+      "0f9d47ac",
       "b300f1d2",
       "c1c2e996",
       "fc706e57",
@@ -1072,6 +1075,7 @@
       "bf42747f",
       "1ba2b488",
       "b85c531a",
+      "e45f8ed7",
       "72338547",
       "2fa01418"
     ]
