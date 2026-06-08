@@ -803,7 +803,7 @@
     "tokenPointsContract": "0x3F577B64E5CE5F2d00607770368d623cECc4FF7D",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
     "claimContract": "",
-    "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/snag-helper/mint",
+    "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Deposit and Hold": [
         {
