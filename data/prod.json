@@ -802,7 +802,7 @@
     "end_date": "2026-10-25T11:59:00.000Z",
     "tokenPointsContract": "0x3F577B64E5CE5F2d00607770368d623cECc4FF7D",
     "tokenPointsWalletAddress": "0x0BF9C15CbD9f0fac9fc6ab90F0603e89818489bd",
-    "claimContract": "",
+    "claimContract": "0x6Ed2916C3E5D82316B5c8f1ce7Fc67633B9a262d",
     "cms_url": "http://cms-coti-0BF9-TPS004:8000/api/v1/mint-disperser/mint",
     "rules": {
       "Deposit and Hold": [
